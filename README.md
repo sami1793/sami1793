@@ -2,7 +2,12 @@
 
 ### Tengo conocimientos sobre:
 
+
 <!--
+
+| col 1 | col 2 |
+| ------------ | ------------- |
+| imagen 1 | imagen 2 |
 
 [![Stats](https://github-readme-stats.vercel.app/api?username=sami1793)](https://github.com/anuraghazra/github-readme-stat)
 **sami1793/sami1793** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
