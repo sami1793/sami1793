@@ -1,6 +1,6 @@
 ### Holaa 👋🏼 soy Samanta 👩🏼‍💻
 
-
+### Tengo conocimientos sobre:
 
 <!--
 
