@@ -1,8 +1,7 @@
 ### Holaa 👋🏼 soy Samanta 👩🏼‍💻
 
 ### Tengo conocimientos sobre:
-
-
+![image](https://user-images.githubusercontent.com/79877273/132973857-af39b1b0-c116-4e58-86e2-3a59012e25f1.png) 
 <!--
 
 | col 1 | col 2 |
