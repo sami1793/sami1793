@@ -1,7 +1,7 @@
 ### Holaa 👋🏼 soy Samanta 👩🏼‍💻
 
 ### Tengo conocimientos sobre:
-![java](java_icon.png) ![image](mysql_icon.png) ![image](mongodb_icon.png)
+![java](java_icon.png) ![html](html_icon.png) ![image](mysql_icon.png) ![image](mongodb_icon.png)
 <!--
 
 
