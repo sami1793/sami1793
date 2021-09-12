@@ -1,7 +1,7 @@
 ### Holaa 👋🏼 soy Samanta 👩🏼‍💻
 
 ### Tengo conocimientos sobre:
-![java](java_icon.png) ![image](https://user-images.githubusercontent.com/79877273/132973923-451c147d-108d-4522-8869-89e1ad18014d.png)
+![java](java_icon.png) ![image](mysql_icon.png)
 <!--
 
 
