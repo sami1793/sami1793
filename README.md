@@ -1,7 +1,8 @@
 ### Holaa 👋🏼 soy Samanta 👩🏼‍💻
 
 ### Tengo conocimientos sobre:
-<img src="java_2_icon.png" width="100" height="100"/>
+<img src="java_2_icon.png" width="100" height="100"/> <img src="mysql_2_icon.png" width="10%" height="10%"/>
+
 
  ![html](html_icon.png) ![image](mysql_icon.png) ![image](mongodb_icon.png)
 
