@@ -2,8 +2,9 @@
 
 ### Tengo conocimientos sobre:
 ![java](java_icon.png) ![html](html_icon.png) ![image](mysql_icon.png) ![image](mongodb_icon.png)
-<!--
 
+<!--
+<img src="mongodb_icon.png" width="100" height="100"/>
 
 ![java](https://user-images.githubusercontent.com/79877273/132973857-af39b1b0-c116-4e58-86e2-3a59012e25f1.png)
 
