@@ -1,7 +1,7 @@
 ### Holaa 👋🏼 soy Samanta 👩🏼‍💻
 
 ### Tengo conocimientos sobre:
-<img src="java_2_icon.png" width="10%" height="10%"/> <img src="python_icon.png" width="8%" height="8%"/> <img src="mysql_2_icon.png" width="10%" height="10%"/> <img src="mongodb_2_icon.png" width="10%" height="10%"/> <img src="git_icon.png" width="10%" height="10%"/>
+<img src="java_2_icon.png" width="10%" height="10%"/> <img src="python_icon.png" width="8%" height="8%"/> <img src="mysql_2_icon.png" width="10%" height="10%"/> <img src="mongodb_2_icon.png" width="10%" height="10%"/> <img src="git_icon.png" width="10%" height="10%"/> <img src="postman_icon.png" width="8%" height="8%"/>
 
 
 
