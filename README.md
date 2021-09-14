@@ -1,4 +1,5 @@
-## Holaa 👋🏼 soy Samanta 👩🏼‍💻
+## Holaa 👋🏼 soy Samanta
+Soy estudiante de Ingeniería en Telecomunicaciones 📡  y Desarrolladora Backend Jr 👩🏻‍💻
 
 ### 🔧Lenguajes y herramientas
 <img src="java_2_icon.png" width="8%" height="8%"/> <img src="python_icon.png" width="6%" height="6%"/> <img src="mysql_2_icon.png" width="8%" height="8%"/> <img src="mongodb_2_icon.png" width="8%" height="8%"/> <img src="git_icon.png" width="8%" height="8%"/> <img src="postman_icon.png" width="6%" height="6%"/>
