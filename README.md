@@ -1,4 +1,6 @@
 ### Holaa 👋🏼 soy Samanta
+<img src="banner.gif" width="100%" height="100%" />
+
 Soy estudiante de Ingeniería en Telecomunicaciones 📡  y Desarrolladora Backend Jr 👩🏻‍💻
 
 ### 🔧Lenguajes y herramientas
