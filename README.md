@@ -12,6 +12,7 @@ Soy estudiante de Ingeniería en Telecomunicaciones 📡  y Desarrolladora Backe
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=sami1793&count_private=true&theme=onedark&showicons=true)]() [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=sami1793&langs_count=5&theme=onedark)]()
 
 
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/samanta-romero-033221216/)
 <!--
   dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontrast, dracula
 
