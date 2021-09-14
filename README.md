@@ -4,11 +4,11 @@
 <img src="java_2_icon.png" width="10%" height="10%"/> <img src="python_icon.png" width="8%" height="8%"/> <img src="mysql_2_icon.png" width="10%" height="10%"/> <img src="mongodb_2_icon.png" width="10%" height="10%"/> <img src="git_icon.png" width="10%" height="10%"/> <img src="postman_icon.png" width="8%" height="8%"/>
 
 ### Mis estadisticas
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=sami1793&count_private=true&theme=tokyonight&showicons=true)]() [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=sami1793&langs_count=5&theme=tokyonight)]()
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=sami1793&count_private=true&theme=onedark&showicons=true)]() [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=sami1793&langs_count=5&theme=onedark)]()
 
 
 <!--
-
+  dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontrast, dracula
 
  ![html](html_icon.png) ![image](mysql_icon.png) ![image](mongodb_icon.png)
 
