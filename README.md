@@ -1,7 +1,7 @@
 ## Holaa 👋🏼 soy Samanta 👩🏼‍💻
 
 ### 🔧Lenguajes y herramientas
-<img src="java_2_icon.png" width="10%" height="10%"/> <img src="python_icon.png" width="8%" height="8%"/> <img src="mysql_2_icon.png" width="10%" height="10%"/> <img src="mongodb_2_icon.png" width="10%" height="10%"/> <img src="git_icon.png" width="10%" height="10%"/> <img src="postman_icon.png" width="8%" height="8%"/>
+<img src="java_2_icon.png" width="8%" height="8%"/> <img src="python_icon.png" width="6%" height="6%"/> <img src="mysql_2_icon.png" width="8%" height="8%"/> <img src="mongodb_2_icon.png" width="8%" height="8%"/> <img src="git_icon.png" width="8%" height="8%"/> <img src="postman_icon.png" width="6%" height="6%"/>
 
 ### 📈Mis estadisticas
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=sami1793&count_private=true&theme=onedark&showicons=true)]() [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=sami1793&langs_count=5&theme=onedark)]()
