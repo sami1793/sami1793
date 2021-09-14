@@ -1,19 +1,35 @@
 ### Holaa 👋🏼 soy Samanta
 <img src="banner.gif" width="100%" height="100%" />
 
-### ✏Acerca de mí
+### ✏ Acerca de mí
 
 Soy estudiante de Ingeniería en Telecomunicaciones 📡  y Desarrolladora Backend Jr 👩🏻‍💻
 
-### 🔧Lenguajes y herramientas
-<img src="java_2_icon.png" width="8%" height="8%"/> <img src="python_icon.png" width="6%" height="6%"/> <img src="mysql_2_icon.png" width="8%" height="8%"/> <img src="mongodb_2_icon.png" width="8%" height="8%"/> <img src="git_icon.png" width="8%" height="8%"/> <img src="postman_icon.png" width="6%" height="6%"/>
+### 🔧 Lenguajes y herramientas
+[![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)](https://www.java.com/)
+[![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](https://www.python.org/)
+[![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)](https://spring.io/)
+[![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
+[![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
+[![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
+[![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)](https://www.postman.com/)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-### 📈Mis estadisticas
+
+### 📈 Mis estadisticas
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=sami1793&count_private=true&theme=onedark&showicons=true)]() [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=sami1793&langs_count=5&theme=onedark)]()
 
+### 📞 Contáctame
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samanta-romero-033221216)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:samantar17@gmail.com)
+
 <!--
+
+LENGUAJES
+
+<img src="java_2_icon.png" width="8%" height="8%"/> <img src="python_icon.png" width="6%" height="6%"/> <img src="mysql_2_icon.png" width="8%" height="8%"/> <img src="mongodb_2_icon.png" width="8%" height="8%"/> <img src="git_icon.png" width="8%" height="8%"/> <img src="postman_icon.png" width="6%" height="6%"/>
+
   dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontrast, dracula
 
  ![html](html_icon.png) ![image](mysql_icon.png) ![image](mongodb_icon.png)
