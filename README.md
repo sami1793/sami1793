@@ -5,6 +5,9 @@
 
 Soy estudiante de Ingeniería en Telecomunicaciones 📡  y Desarrolladora Backend Jr 👩🏻‍💻
 
+Me emociona aprender cosas nuevas y me encantan los desafios.
+
+
 ### 🔧 Lenguajes y herramientas
 [![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)](https://www.java.com/)
 [![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](https://www.python.org/)
