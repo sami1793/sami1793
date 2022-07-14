@@ -17,6 +17,7 @@ Me emociona aprender cosas nuevas y me encantan los desafios.
 [![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=plastic&logo=git&logoColor=white)](https://git-scm.com/)
 [![Postman](https://img.shields.io/badge/Postman-FF6C37?style=plastic&logo=postman&logoColor=white)](https://www.postman.com/)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=plastic&logo=visual-studio-code&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-%239146FF.svg?style=plastic&logo=kotlin&logoColor=white)
 
 
 ### 📈 Mis estadisticas
