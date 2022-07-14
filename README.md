@@ -3,7 +3,7 @@
 
 ### ✏ Acerca de mí
 
-Soy estudiante de Ingeniería en Telecomunicaciones 📡  y Desarrolladora Backend Jr 👩🏻‍💻
+Soy Ingeniera en Telecomunicaciones 📡  y Desarrolladora Backend Jr 👩🏻‍💻
 
 Me emociona aprender cosas nuevas y me encantan los desafios.
 
@@ -18,6 +18,7 @@ Me emociona aprender cosas nuevas y me encantan los desafios.
 [![Postman](https://img.shields.io/badge/Postman-FF6C37?style=plastic&logo=postman&logoColor=white)](https://www.postman.com/)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=plastic&logo=visual-studio-code&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-%239146FF.svg?style=plastic&logo=kotlin&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=plastic&logo=android&logoColor=white)
 
 
 ### 📈 Mis estadisticas
