@@ -3,7 +3,7 @@
 
 ### ✏ Acerca de mí
 
-"Soy Ingeniera en Telecomunicaciones 📡 y Desarrolladora Backend Jr, con experiencia en Desarrollo Frontend recién adquirida 👩🏻‍💻. Apasionada por aprender y amante de los desafíos."
+Soy Ingeniera en Telecomunicaciones 📡 y Desarrolladora Backend Jr, con experiencia en Desarrollo Frontend recién adquirida 👩🏻‍💻. Apasionada por aprender y amante de los desafíos.
 
 
 ### 🔧 Lenguajes y herramientas
